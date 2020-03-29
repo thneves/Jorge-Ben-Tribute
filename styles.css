@@ -1,0 +1,82 @@
+
+
+header {
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    margin: 100px 100px 50px 100px;
+}
+
+#title {
+    font-size: 80px;
+    font-family: Spicy Rice;
+    color: #323232;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#img-div {
+    text-align: center;
+    padding: 0;
+}
+
+#image {
+    width: 600px;
+    height: 650px;
+    border: 4px black solid;
+}
+
+#img-caption {
+    font-family: monospace;
+    font-size: 14px;
+}
+
+#tribute-info {
+    padding: 20px 350px 20px 350px;
+    font-family: monospace;
+    font-size: 16px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    
+}
+
+#albums {
+    text-align: center;
+    font-family: monospace;
+    font-size: 36px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid;
+    padding-bottom: 50px;
+}
+
+
+
+ul {
+    width: 700px;
+    margin: auto;
+    list-style-type: none;
+    text-align: left;
+    line-height: 1.6;
+    font-size: 18px;   
+    }
+
+.links {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 50px;
+    border-bottom: 1px solid;
+}
+
+
+footer {
+    font-size: 14px;
+    margin: auto;
+    padding: 30px 0 30px 0;
+    text-align: center;
+
+}
